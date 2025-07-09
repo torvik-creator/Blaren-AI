@@ -23,5 +23,6 @@ TaskFlow is a minimal, fast, and responsive task management web app built with N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskflow.git
-   cd taskflow
+  
+
+   I Fixed a few bugs and decreased dependencies on React ..
